@@ -1,0 +1,11 @@
+{
+  "name": "gl-matrix-bindings-ts",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "gl-matrix": "^2.3.2"
+  },
+  "devDependencies": {
+    "typescript": "^1.8.7"
+  }
+}
